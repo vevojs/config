@@ -3,7 +3,7 @@
   "version": "0.0.0",
   "description": "Vevo config module",
   "license": "MIT",
-  "repository": "iguntur/vevo-config",
+  "repository": "vevojs/vevo-config",
   "author": {
     "name": "Guntur Poetra",
     "email": "poetra.guntur@gmail.com",
